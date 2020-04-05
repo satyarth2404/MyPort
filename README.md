@@ -7,6 +7,6 @@ Application Link : [Satyarth-Shukla](http://iamsaty.us-east-2.elasticbeanstalk.c
 ![image](https://user-images.githubusercontent.com/34190266/78484352-3e11a480-7764-11ea-9921-d3965bbd34fa.png)
 
 ### Overview 
-- [x] Prototype Compleete
-- [x] Database Service Complete
+- [x] Prototype Complete
+- [x] Database Services Complete
 - [ ] Role based access using Spring Security
